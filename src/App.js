@@ -7,6 +7,7 @@ import Exercicio3 from "./exercicios/Exercicio3";
 import Exercicio4 from "./exercicios/Exercicio4";
 import Exercicio5 from "./exercicios/Exercicio5";
 import Exercicio6 from "./exercicios/Exercicio6";
+import Pokedex from "./pages/pokedex";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
     // <Exercicio3 />
     // <Exercicio4 />
     // <Exercicio5 />
-    <Exercicio6 />
+    <Pokedex />
     // <Background />
   );
 }

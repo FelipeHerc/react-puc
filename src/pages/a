@@ -1,0 +1,49 @@
+Organização do projeto
+Como modificar e renderizar algo simples
+Tags bobinhas
+Limpeza arquivo index
+
+## Pedir pra fazer qqr coisa no arquivo index com tags mostradas
+
+Estrutura de um jsx
+Criando variaveis e constantes no js
+Explicar let, const e var
+Arrow function (if, ternatio, return)
+Mostrar como utilizar o console do navegador
+console.log
+Mostrar como renderizar o valor de uma variável
+Concatenação e interpolação
+
+## Pedir para criar uma variavel com seu nome, seu sobrenome, sua idade e sua cor favorita e renderizar
+## Renderizar tambem uma função que retorna 'Meu nome é X Y, tenho Z anos e minha cor favorita é W' 
+
+Tipos de dados array e objeto (focar na diferença entre eles)
+
+Criação basica de arrays e objetos
+Renderização condicional
+Map para renderizar
+
+## Repetir exercicio anterior, mas renderizando usando o map
+
+Metodos de manipulação de array e objetos (forEach, map, filter, find, findIndexOf)
+Spread
+
+## Criar um array de objetos com nome e nota de alunos, renderizar em uma lista os alunos que tiveram nota maior ou igual a 60, em outra lista os alunos que tiveram nota menor que 60 e renderizar o aluno com a maior nota
+
+Como criar componentes/paginas e renderiza-los
+PROPS
+Como importar e renderizar componentes passando props
+
+## Criar um componente filme que recebe uma prop titulo, ano de lançamento, e uma url para uma imagem, criar um array de objetos contendo 3 filmes e renderizar cada filme num componente
+
+useState
+Mostrar como criar um estado, atualiza-lo e utiliza-lo
+
+## Criar um botao que incrementa um contador e renderizar quantas vezes o botao foi clicado
+
+## Criar um formulario com nome e sobrenome, guardar estes dados em states e disparar um alert interpolando nome e sobrenome
+
+useEffect
+
+## Criar um array com nome de 10 frutas, colocar um input para filtrar os nomes das frutas
+

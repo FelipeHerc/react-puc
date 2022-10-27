@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Home from "./pages/home";
+import ToDo from "./pages/todo";
+import Background from "./pages/background";
+import Exercicio1 from "./exercicios/Exercicio1";
+import Exercicio2 from "./exercicios/Exercicio2";
+import Exercicio3 from "./exercicios/Exercicio3";
+import Exercicio4 from "./exercicios/Exercicio4";
+import Exercicio5 from "./exercicios/Exercicio5";
+import Exercicio6 from "./exercicios/Exercicio6";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <ToDo />
+    // <Exercicio1 />
+    // <Exercicio2 />
+    // <Exercicio3 />
+    // <Exercicio4 />
+    // <Exercicio5 />
+    <Exercicio6 />
+    // <Background />
   );
 }
 
